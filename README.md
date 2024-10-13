@@ -13,8 +13,6 @@
   <a href="https://learn.microsoft.com/ru-ru/ef/"><img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" style="width: 40px; border-radius: 3px"></a> 
   <a href="https://www.php.net/"><img src="https://www.svgrepo.com/show/452088/php.svg" style="width: 35px"></a>
   <a href="https://laravel.com/"><img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" style="width: 35px"></a>
-<!--   <a href="#"><img src="" style="width: 35px"></a>-->
-<!--   <a href="#"><img src="" style="width: 35px"></a>-->
   <a href="https://en.wikipedia.org/wiki/C++"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" style="width: 40px"></a> 
   <a href="https://en.wikipedia.org/wiki/CMake"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" style="width: 40px"></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" style="width: 40px"></a>
@@ -23,17 +21,16 @@
   <a href="https://en.wikipedia.org/wiki/Redis"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" style="width: 40px"></a>
   <a href="https://en.wikipedia.org/wiki/Docker"><img src="https://www.svgrepo.com/show/452192/docker.svg" style="width: 40px"></a>
   <a href="https://en.wikipedia.org/wiki/Git"><img src="https://www.svgrepo.com/show/452210/git.svg" style="width: 40px"></a>
-<!--   <a href="#"><img src="" style="width: 60px"></a> -->
+<!--   <a href="#"><img src="" style="width: 35px"></a> -->
 </div>
 
-<h4>Front End</h4>
+<!-- <h4>Front End</h4>
 <div style="display: flex; grid-gap: 20px">
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="width: 55px"></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="width: 40px"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" style="width: 40px"></a>
   <a href="https://en.wikipedia.org/wiki/Vue.js"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" style="width: 40px"></a>
-<!--   <a href="#"><img src="" style="width: 35px"></a> -->
-</div> 
+</div> -->
 <!-- <h4>Tools</h4>
 <div style="display: flex; grid-gap: 20px">
   <a href="#"><img src="https://www.svgrepo.com/show/452129/vs-code.svg" style="width: 50px"></a>
