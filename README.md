@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/40b0f78b261dbde178a253307fec1de25875f92469232dbef42479ac749dcfdb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d373730304646266865696768743d3137302673656374696f6e3d686561646572" alt="альтернативный текст">
-<h2 align="center">Hi Friend! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h2 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 <h3>👨‍💻 About me: </h3>
-<h5 align="center">I am developer, </h5>
+<h5 align="center">I am Back ENd developer</h5>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>🌐 Hard Skills: </h3>
@@ -24,33 +24,4 @@
 <!--   <a href="#"><img src="" style="width: 35px"></a> -->
 </div>
 
-<!-- <h4>Front End</h4>
-<div style="display: flex; grid-gap: 20px">
-  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="width: 55px"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="width: 40px"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" style="width: 40px"></a>
-  <a href="https://en.wikipedia.org/wiki/Vue.js"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" style="width: 40px"></a>
-</div> -->
-<!-- <h4>Tools</h4>
-<div style="display: flex; grid-gap: 20px">
-  <a href="#"><img src="https://www.svgrepo.com/show/452129/vs-code.svg" style="width: 50px"></a>
-  <a href="#"><img src="https://www.svgrepo.com/show/354520/visual-studio.svg" style="width: 50px; margin-left: 100px;"></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png" style="width: 50px"></a>
-  <a href="#"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="width: 50px"></a>
-  <a href="#"><img src="" style="width: 60px"></a> 
-</div> -->
-
 <img src="https://camo.githubusercontent.com/6252eacbfc5e3d3187db58281ee0a7e1615540c5a7915274da75bdc28f9cb4fd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d373730304646266865696768743d3135382673656374696f6e3d666f6f746572">
-<!--
-**D0NIFF/D0NIFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
