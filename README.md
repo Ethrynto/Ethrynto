@@ -2,7 +2,7 @@
 <h2 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 <h3>👨‍💻 About me: </h3>
-<h5 align="center">I am Back ENd developer</h5>
+<h5 align="center">I am Back End developer</h5>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>🌐 Hard Skills: </h3>
