@@ -9,7 +9,7 @@
 <h4>Back End</h4>
 <div style="display: flex; grid-gap: 20px">
    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-    <img src="https://github.com/D0NIFF/D0NIFF/assets/c-sharp.png" style="width: 40px">
+    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.png" style="width: 40px">
   </a>
   <a href="https://en.wikipedia.org/wiki/.NET">
     <img src="https://www.pulumi.com/logos/tech/dotnet.png" style="width: 40px">
