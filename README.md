@@ -8,8 +8,12 @@
 <h3>🌐 Hard Skills: </h3>
 <h4>Back End</h4>
 <div style="display: flex; grid-gap: 20px">
-  <a href="https://ru.wikipedia.org/wiki/C_Sharp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="width: 40px"></a>
-  <a href="https://en.wikipedia.org/wiki/.NET"><img src="https://www.pulumi.com/logos/tech/dotnet.png" style="width: 40px"></a>
+  <a href="https://ru.wikipedia.org/wiki/C_Sharp">+
+    ![image](https://github.com/D0NIFF/D0NIFF/assets/c-sharp.png)
+  </a>
+  <a href="https://en.wikipedia.org/wiki/.NET">
+    <img src="https://www.pulumi.com/logos/tech/dotnet.png" style="width: 40px">
+  </a>
   <a href="https://learn.microsoft.com/ru-ru/ef/"><img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" style="width: 40px; border-radius: 3px"></a> 
   <a href="https://www.php.net/"><img src="https://www.svgrepo.com/show/452088/php.svg" style="width: 35px"></a>
   <a href="https://laravel.com/"><img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" style="width: 35px"></a>
