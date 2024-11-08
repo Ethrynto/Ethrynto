@@ -9,12 +9,12 @@
 #### Back End
 <div style="display: flex; grid-gap: 20px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.png" style="width: 50px"> 
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/cpp.png" style="width: 50px">+
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/php.png" style="width: 50px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg" style="width: 50px; border-radius: 5px">
-   <img src="https://www.php.net/images/logos/new-php-logo.svg" style="width: 50px">
-   <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" style="width: 50px">
-   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/cpp.png" style="width: 50px">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" style="width: 50px">
-   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" style="width: 50px">
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/laravel.png" style="width: 50px">
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/CMake.png" style="width: 50px">
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/sql.png" style="width: 50px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/mysql.png" style="width: 50px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/postgre.png" style="width: 50px">
    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" style="width: 50px">
