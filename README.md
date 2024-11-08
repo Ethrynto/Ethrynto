@@ -9,13 +9,12 @@
 #### Back End
 <div style="display: flex; grid-gap: 20px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.png" style="width: 50px"> 
-   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg" style="width: 50px; border-radius: 5px">
-   <br>
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/cpp.png" style="width: 50px">
-   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/CMake.png" style="width: 50px">
-   <br>
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/php.png" style="width: 50px">
-   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/Laravel.png" style="width: 50px">
+   <br>
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg" style="width: 50px; border-radius: 5px">
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/CMake.png" style="width: 50px">
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/Laravel.png" style="width: 50px">   
 </div>
 
 #### Database
