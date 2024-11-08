@@ -1,16 +1,15 @@
 <img src="https://camo.githubusercontent.com/40b0f78b261dbde178a253307fec1de25875f92469232dbef42479ac749dcfdb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d373730304646266865696768743d3137302673656374696f6e3d686561646572" alt="альтернативный текст">
 <h2 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
-<h3>👨‍💻 About me: </h3>
-<h5 align="center">I am Back End developer</h5>
+### 👨‍💻 About me:
+##### I am Back End developer
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Hard Skills:
 #### Back End
 <div style="display: flex; grid-gap: 20px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.png" style="width: 50px"> 
-   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg" style="width: 50px">
-   <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" style="width: 40px; border-radius: 3px">
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg" style="width: 50px; border-radius: 5px">
    <img src="https://www.php.net/images/logos/new-php-logo.svg" style="width: 50px">
    <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" style="width: 50px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/cpp.png" style="width: 50px">
