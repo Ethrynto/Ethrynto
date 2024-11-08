@@ -9,7 +9,7 @@
 <h4>Back End</h4>
 <div style="display: flex; grid-gap: 20px">
    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.png" style="width: 50px"> </a>
-  <a href="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg"> <img src="https://www.pulumi.com/logos/tech/dotnet.png" style="width: 50px"> </a>
+  <a href="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg"> <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/dotnet.svg" style="width: 50px"> </a>
   <a href="https://learn.microsoft.com/ru-ru/ef/">
      <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" style="width: 40px; border-radius: 3px">
   </a> 
