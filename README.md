@@ -2,10 +2,8 @@
 <h2 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 ### 👨‍💻 About me:
-<h3 style="font-family: 'Cascadia Mono', serif; font-weight: 700">👨‍💻 About me:</h3>
 ##### I am Back End developer
-<h3 style="font-family: 'Cascadia Mono', serif; font-weight: 700">I am Back End developer</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Hard Skills:
 #### Back End
