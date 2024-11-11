@@ -8,7 +8,7 @@
 ### 🌐 Hard Skills:
 #### Back End
 <div style="display: flex; grid-gap: 20px">
-   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.svg" style="width: 50px"> 
+   <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/c-sharp.png" style="width: 50px"> 
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/cpp.png" style="width: 50px; margin-left: 20px">
    <img src="https://github.com/D0NIFF/D0NIFF/blob/master/assets/php.png" style="width: 50px; margin-left: 20px">
    <br>
