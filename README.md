@@ -1,10 +1,6 @@
 <img src="https://camo.githubusercontent.com/40b0f78b261dbde178a253307fec1de25875f92469232dbef42479ac749dcfdb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d373730304646266865696768743d3137302673656374696f6e3d686561646572" alt="альтернативный текст">
 <h2 align="center">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
-### 👨‍💻 About me:
-##### I am Back End developer
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # 💻 Tech Stack:
 ### Back End
 <div style="display: flex; grid-gap: 20px">
@@ -40,7 +36,7 @@
    <img src="https://www.svgrepo.com/show/452210/git.svg" style="width: 50px">
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/d0niff) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d0niff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doniff) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/d0niff) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DoNiFF) 
