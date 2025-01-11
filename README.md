@@ -50,7 +50,7 @@
 
 ### Designing
 <div style="display: flex; grid-gap: 20px">
-   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/photoshop.svg" style="width: 50px" title="Photoshop"> 
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/adobe-photoshop.svg" style="width: 50px" title="Photoshop"> 
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/figma.svg" style="width: 50px" title="Figma"> 
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/drawio.svg" style="width: 50px" title="Drawio"> 
 </div>
@@ -61,13 +61,27 @@
 
 ## 🌐 Socials:
 <div style="display: flex; grid-gap: 20px">
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/linkedin.svg" style="width: 30px" title="LinkedIn">](https://www.linkedin.com/in/ethrynto/)
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/stackoverflow.svg" style="width: 30px" title="Stackoverflow">](https://stackoverflow.com/users/29053105/ethrynto)
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/facebook.svg" style="width: 30px" title="Facebook">](https://www.facebook.com/Ethrynto)
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/reddit.svg" style="width: 30px" title="Reddit">](https://www.reddit.com/user/Ethrynto/)
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/discord.svg" style="width: 30px" title="Discord">](https://discord.com/invite/Ethrynto)
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/bluesky.svg" style="width: 30px" title="BlueSky">](https://bsky.app/profile/ethrynto)
-   [<img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/codepen.svg" style="width: 30px" title="Codepen">](https://codepen.io/Ethrynto)
+   <a href="https://www.linkedin.com/in/ethrynto/">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/linkedin.svg" style="width: 30px" title="LinkedIn">
+   </a>
+   <a href="https://stackoverflow.com/users/29053105/ethrynto">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/stackoverflow.svg" style="width: 30px" title="Stackoverflow">
+   </a>
+   <a href="https://www.facebook.com/Ethrynto">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/facebook.svg" style="width: 30px" title="Facebook">
+   </a>
+   <a href="https://www.reddit.com/user/Ethrynto/">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/reddit.svg" style="width: 30px" title="Reddit">
+   </a>
+   <a href="https://discord.com/invite/Ethrynto">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/discord.svg" style="width: 30px" title="Discord">
+   </a>
+   <a href="https://bsky.app/profile/ethrynto">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/bluesky.svg" style="width: 30px" title="BlueSky">
+   </a>
+   <a href="https://codepen.io/Ethrynto">
+      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/codepen.svg" style="width: 30px" title="Codepen">
+   </a>
 </div>
 
 # 📊 GitHub Stats:
