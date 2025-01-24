@@ -19,7 +19,7 @@
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/css.png" style="width: 50px" title="CSS">
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/javascript.svg" style="width: 50px" title="JavaScript">
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/typescript.svg" style="width: 50px" title="TypeScript">
-   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/reactjs.svg" style="width: 50px" title="React JS">
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/vue.svg" style="width: 50px" title="Vue JS">
 </div>
 
 ### Database
